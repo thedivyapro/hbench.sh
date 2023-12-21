@@ -70,18 +70,15 @@ speed_test() {
 
 speed() {
     speed_test '' 'Speedtest.net'
-    speed_test '21541' 'Los Angeles, US'
-    speed_test '43860' 'Dallas, US'
-    speed_test '40879' 'Montreal, CA'
-    speed_test '24215' 'Paris, FR'
-    speed_test '28922' 'Amsterdam, NL'
-    speed_test '24447' 'Shanghai, CN'
-    speed_test '5530' 'Chongqing, CN'
-    speed_test '60572' 'Guangzhou, CN'
-    speed_test '32155' 'Hongkong, CN'
-    speed_test '23647' 'Mumbai, IN'
-    speed_test '13623' 'Singapore, SG'
-    speed_test '21569' 'Tokyo, JP'
+    speed_test '2564' 'Bangalore, Bharti Airtel Ltd'
+    speed_test '18974' 'Chennai, Airtel Broadband'
+    speed_test '10195' 'Bangalore, Jio'
+    speed_test '9690' 'Chennai, Jio'
+    speed_test '4641' 'Mumbai, Jio'
+    speed_test '9809' 'Delhi, Jio'
+    speed_test '10196' 'Hyderabad, Jio'
+    speed_test '18977' 'Hyderabad, Airtel'
+    speed_test '2827' 'Mumbai, Airtel'
 }
 
 io_test() {
