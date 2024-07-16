@@ -1,6 +1,6 @@
 # Hbench.sh - Linux Benchmarking Tool
 
-Welcome to the GitHub repository for `hbench.sh`, a powerful benchmarking tool for Linux systems, designed to assess the performance of various Linux utilities. This script provides a comprehensive analysis of your system's capabilities. For more details, visit my website [harish.pro](https://harish.pro).
+Welcome to the GitHub repository for `hbench.sh`, a powerful benchmarking tool for Linux systems, designed to assess the performance of various Linux utilities. This script provides a comprehensive analysis of your system's capabilities.
 
 ## Installation and Usage
 
@@ -31,7 +31,7 @@ sudo pacman -S hbench.sh
 Download the Script:
 
 ```bash
-wget https://github.com/realharishpro/hbench.sh/raw/main/hbench.sh
+wget https://github.com/thedivyapro/hbench.sh/raw/main/hbench.sh
 ```
 Make the Script Executable:
 
