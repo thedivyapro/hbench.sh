@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Description: A Bench Script by harx.89
+# Description: A Bench Script by thedivyapro
 #
 trap _exit INT QUIT TERM
 
@@ -242,7 +242,7 @@ install_speedtest() {
 }
 
 print_intro() {
-    echo "-------------------- A Benchmark Script By Harish for Square Brothers -------------------"
+    echo "-------------------- A Benchmark Script By Divya for Square Brothers -------------------"
     echo " Version            : $(_green v2023.02SSSSSS)"
     echo " Usage              : $(_red "wget -qO- bench.sh | bash")"
 }
